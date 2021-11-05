@@ -4,3 +4,4 @@ Git has a mutable index call stage
 Git tracks changes.
 git tracks changes of files
 dev add
+createing a new branch is quick and simple
